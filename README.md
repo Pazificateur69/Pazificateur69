@@ -1,132 +1,105 @@
 <div align="center">
 
-```
- ██████╗  █████╗ ███████╗██╗███████╗███╗   ███╗ █████╗ ████████╗ ██████╗ ██████╗ 
-██╔════╝ ██╔══██╗██╔════╝██║██╔════╝████╗ ████║██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗
-██║  ███╗███████║███████╗██║█████╗  ██╔████╔██║███████║   ██║   ██║   ██║██████╔╝
-██║   ██║██╔══██║╚════██║██║██╔══╝  ██║╚██╔╝██║██╔══██║   ██║   ██║   ██║██╔══██╗
-╚██████╔╝██║  ██║███████║██║███████╗██║ ╚═╝ ██║██║  ██║   ██║   ╚██████╔╝██║  ██║
- ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-
-  Alessandro Gagliardi • Cybersecurity Engineer • DevSecOps • Full-Stack Dev
-  
-  [ 🏫 Guardia School ] [ 💼 Net Strategy ] [ 🌐 pazent.fr ]
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e00ff,100:00d4ff&height=200&section=header&text=Alessandro%20Gagliardi&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20DevSecOps%20%7C%20Full-Stack%20Dev&descAlignY=58&descSize=18&animation=fadeIn" />
 
 ---
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Securing+systems+that+matter+%F0%9F%94%90;Breaking+things+to+build+them+better+%F0%9F%94%A8;DevSecOps+%40+Net+Strategy+%7C+Lyon+%F0%9F%87%AB%F0%9F%87%B7)](https://git.io/typing-svg)
 
-<div align="center">
+---
 
-<!-- HERO BADGES -->
-![Security](https://img.shields.io/badge/EXPERTISE-Cybersecurity-red?style=for-the-badge&logo=shield&logoColor=white&labelColor=1a1a1a)
-![DevSecOps](https://img.shields.io/badge/SPECIALITY-DevSecOps-purple?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)
-![FullStack](https://img.shields.io/badge/SKILL-FullStack%20Dev-cyan?style=for-the-badge&logo=code&logoColor=white&labelColor=1a1a1a)
-![Web3](https://img.shields.io/badge/PASSION-Web3%20Security-blue?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=1a1a1a)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-pazent.fr-6e00ff?style=for-the-badge&logo=vercel&logoColor=white)](https://pazent.fr)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandrogagliardi)
+[![Twitter](https://img.shields.io/badge/TWITTER-Follow-00d4ff?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/pazent69)
+[![Email](https://img.shields.io/badge/EMAIL-contact%40pazent.fr-ff4500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@pazent.fr)
 
 </div>
 
 ---
 
-## 🔐 Who I Am
+## 🧬 About Me
 
-> **Security architect with a development mindset.** I build systems that are not just functional, but truly **secure by design**. From pentest to infrastructure, from smart contracts to cloud-native applications—I care about every layer.
+```python
+class AlessandroGagliardi:
+    def __init__(self):
+        self.name = "Alessandro Gagliardi"
+        self.role = ["Cybersecurity Engineer", "DevSecOps", "Full-Stack Developer"]
+        self.education = "3ème année Cybersécurité @ Guardia School, Lyon"
+        self.work = "DevSecOps Alternant @ Net Strategy, Feyzin"
+        self.portfolio = "https://pazent.fr"
+        self.philosophy = "Security is not a feature, it's a foundation."
 
-**Currently**:
-- 🎓 3rd year Cybersecurity student @ **Guardia Cybersecurity School**, Lyon
-- 💼 **DevSecOps Engineer** @ **Net Strategy**, Feyzin
-- 🌍 Building @ **pazent.fr**
+    def skills(self):
+        return {
+            "offensive": ["Pentest Web", "Reverse Engineering", "OSINT", "Forensics"],
+            "defensive": ["Hardening", "SOC", "Incident Response", "SIEM"],
+            "dev": ["Next.js", "React", "TypeScript", "Python", "Solidity"],
+            "infra": ["Docker", "Kubernetes", "CI/CD", "VPS", "DNS"],
+        }
 
-**Mission**: Design and secure the systems that matter.
+    def mindset(self):
+        return "Break it. Understand it. Build it better. 🔐"
+```
 
 ---
 
-## 🛡️ Hacking Arsenal
+## 🛡️ Security Arsenal
 
 <div align="center">
 
-### Offensive Security
+### ⚔️ Offensive
+
 ![Nmap](https://img.shields.io/badge/Nmap-009639?style=flat-square&logo=linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B35?style=flat-square&logo=portswigger&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6B35?style=flat-square&logo=portswigger&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-E03C31?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-FF6B35?style=flat-square&logo=metasploit&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-DC143C?style=flat-square&logo=ghidra&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-DC143C?style=flat-square&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC3300?style=flat-square&logoColor=white)
 
-### Defensive Security
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-E34C26?style=flat-square&logo=owasp&logoColor=white)
-![Hardening](https://img.shields.io/badge/Hardening-000000?style=flat-square&logo=linux&logoColor=white)
-![Forensics](https://img.shields.io/badge/Forensics-1E90FF?style=flat-square&logo=book&logoColor=white)
-![Incident Response](https://img.shields.io/badge/IR-FF4500?style=flat-square&logo=alert&logoColor=white)
+### 🔬 Methodologies
 
-### Web3 Security
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
+![PTES](https://img.shields.io/badge/PTES-6e00ff?style=flat-square&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST%20SP%20800--115-003087?style=flat-square&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=flat-square&logoColor=white)
+
+### 🌐 Web3 Security
+
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![ERC20](https://img.shields.io/badge/ERC--20-9B59B6?style=flat-square&logo=ethereum&logoColor=white)
-![Smart Contract Audit](https://img.shields.io/badge/Audit-FFD700?style=flat-square&logo=ethereum&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logoColor=white)
+![ERC-20](https://img.shields.io/badge/ERC--20-9B59B6?style=flat-square&logo=ethereum&logoColor=white)
+![Slither](https://img.shields.io/badge/Slither-4B0082?style=flat-square&logoColor=white)
 
 </div>
-
-### Core Competencies
-
-| Domain | Depth | Focus |
-|--------|-------|-------|
-| **Web Penetration Testing** | 🟥🟥🟥🟥⬜ | OWASP Top 10, SQLi, XSS, IDOR, Authentication bypass |
-| **Binary & Reverse Engineering** | 🟥🟥🟥⬜⬜ | Deobfuscation, secret extraction, architecture analysis |
-| **Forensic Analysis** | 🟥🟥🟥⬜⬜ | Memory dumps, log analysis, artifact reconstruction |
-| **Infrastructure Hardening** | 🟥🟥🟥🟥⬜ | OS hardening, services, firewalls, Zero Trust |
-| **DevSecOps** | 🟥🟥🟥🟥⬜ | CI/CD security, secrets management, SAST/DAST |
-| **Cloud Native Security** | 🟥🟥🟥⬜⬜ | Containers, Kubernetes, AWS IAM |
-| **Web3 Security** | 🟥🟥🟥⬜⬜ | Smart contract audit, blockchain analysis |
 
 ---
 
 ## 💻 Tech Stack
 
+<div align="center">
+
 ### Languages
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-</div>
-
-### Frontend & UX
-<div align="center">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-
-</div>
-
-### Backend & Infrastructure
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-CA0000?style=flat&logo=apache&logoColor=white)
-
-</div>
-
-### DevOps & CI/CD
-<div align="center">
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088F0?style=flat&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### Backend & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -134,88 +107,71 @@
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🏢 CRM Platform — Net Strategy
+`Next.js 14` `Prisma` `Supabase` `PostgreSQL`
 
-```
-Next.js 14 • TypeScript • Prisma • Supabase • TailwindCSS • PostgreSQL
-```
+Enterprise CRM built for performance and security.
 
-Enterprise-grade CRM platform built for high-performance sales teams. Real-time collaboration, advanced filtering, automated workflows, and comprehensive reporting.
+**🔑 Highlights:**
+- OAuth + RBAC + full audit trail
+- Real-time dashboards & analytics
+- PDF/CSV export pipeline
+- Sub-200ms load time
+- 50+ active users daily
 
-**Features**:
-- 🔐 OAuth + RBAC with audit logging
-- ⚡ Sub-200ms page loads (optimized rendering)
-- 📊 Real-time analytics dashboard
-- 📈 Pipeline management & forecasting
-- 📄 PDF/CSV exports
-- 🔄 Webhook integrations
+</td>
+<td width="50%">
 
-**Impact**: Used by 50+ sales professionals daily | 99.9% uptime
+### 🪙 AEDSC Stablecoin — Web3
+`Solidity` `ERC-20` `Wagmi` `Arbitrum`
 
----
+Decentralized stablecoin deployed on Arbitrum One.
 
-### 🪙 AEDSC Stablecoin — Web3 Protocol
+**🔑 Highlights:**
+- 100% smart contract test coverage
+- DAO governance operational
+- DEX integrations (Uniswap, Curve)
+- $2M+ TVL at peak
+- Security-first design
 
-```
-Solidity • ERC-20 • Wagmi • Viem • Arbitrum • ethers.js • Hardhat
-```
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-Decentralized stablecoin protocol deployed on Arbitrum One. Features governance voting, collateralization mechanisms, and liquidity bootstrapping.
+### 🔍 Pentest Web — OWASP Top 10
+`Burp Suite` `Nmap` `Manual Testing`
 
-**Achievements**:
-- ✅ Fully tested smart contracts (100% coverage)
-- 💧 $2M+ TVL achieved
-- 🗳️ DAO governance operational
-- 🔄 DEX integrations (Uniswap, Curve)
-- 📊 Real-time health monitoring
+Full-scope web application security audits.
 
----
+**🔑 Coverage:**
+- SQLi, XSS, IDOR, CSRF
+- Auth bypass & privilege escalation
+- Business logic flaws
+- Executive + technical reports
+- Remediation roadmaps
 
-### 🔍 Web Application Penetration Testing
+</td>
+<td width="50%">
 
-```
-OWASP Testing Guide • Manual Testing • Automated Scanning • Reporting
-```
+### 🎮 Freeze or Flame — Mobile Game
+`React Native` `Three.js` `Expo`
 
-Comprehensive security audits covering OWASP Top 10 vulnerabilities:
+3D mobile game with custom rendering engine.
 
-- **Input Validation**: SQLi, Command Injection, Path Traversal
-- **Authentication**: Bypass techniques, Session fixation, Privilege escalation
-- **Business Logic**: Race conditions, Workflow manipulation
-- **API Security**: Broken endpoints, Unauthorized access
+**🔑 Highlights:**
+- GPU-optimized animations
+- Physics engine (collision, gravity)
+- Cross-platform iOS/Android
+- Custom OpenGL pipeline
 
-Deliverables: Executive summary + detailed technical report + remediation roadmap
-
----
-
-### 🧬 Reverse Engineering & Binary Analysis
-
-```
-Ghidra • IDA Pro • Frida • GDB • strace • objdump
-```
-
-Deep-dive analysis of proprietary binaries, malware, and obfuscated code:
-
-- 🔍 Deobfuscation & control flow recovery
-- 🔐 Secret extraction & credential hunting
-- 🏗️ Architecture documentation
-- 🐛 Vulnerability identification
-
----
-
-### 🎮 Freeze or Flame — Mobile Game Engine
-
-```
-React Native • Expo • Three.js • TypeScript • OpenGL
-```
-
-High-performance 3D mobile game with advanced physics and animations.
-
-**Tech Highlights**:
-- 🎨 Custom 3D rendering pipeline
-- ⚙️ Physics engine (gravity, collision detection)
-- 🔧 GPU-optimized animations
-- 📱 Cross-platform (iOS/Android)
+</td>
+</tr>
+</table>
 
 ---
 
@@ -223,68 +179,61 @@ High-performance 3D mobile game with advanced physics and animations.
 
 <div align="center">
 
-[![Pazent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pazificateur69&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/Pazificateur69)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pazificateur69&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazificateur69&theme=tokyonight&layout=compact&hide_border=true" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pazificateur69&theme=dark&layout=compact&hide_border=true)](https://github.com/Pazificateur69?tab=repositories)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pazificateur69&theme=tokyonight&hide_border=true)](https://github.com/Pazificateur69)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pazificateur69&theme=dark&hide_border=true)](https://github.com/Pazificateur69)
-
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| 🏫<br>**Guardia Cybersecurity School**<br>Lyon<br>*Cybersecurity (3rd Year)*<br>2023–2026 | 💼<br>**Net Strategy**<br>Feyzin<br>*DevSecOps Intern*<br>2024–2026 | 📜<br>**In Progress**<br>—<br>*OSCP, CEH, eJPT*<br>Professional Certs |
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pazificateur69&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Pazificateur69)
 
 </div>
 
 ---
 
-## 🔗 Connect & Collaborate
+## 🎓 Education & Experience
 
 <div align="center">
 
-### Let's Build Something Secure Together
-
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-pazent.fr-121212?style=for-the-badge&logo=globe&logoColor=white&link=https://pazent.fr)](https://pazent.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/alessandrogagliardi)](https://linkedin.com/in/alessandrogagliardi)
-[![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/pazent69)](https://twitter.com/pazent69)
-[![Email](https://img.shields.io/badge/Email-contact%40pazent.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact@pazent.fr)](mailto:contact@pazent.fr)
+```
+2023 ──────────────────────────────────────── 2026
+  │                                              │
+  ●  Guardia Cybersecurity School              ●│
+  │  Lyon — 3ème année Cybersécurité           │
+  │                                             │
+  │  2024 ──────────────────────────────────── │
+  │    │                                        │
+  │    ●  Net Strategy, Feyzin                  │
+  │       DevSecOps Alternant                   │
+  │       CI/CD Security · Hardening            │
+  │       Internal Platform Development         │
+  │                                             │
+  └──────────────────────────────────────────── ●
+                                         Certifications:
+                                         OSCP · CEH · eJPT (in progress)
+```
 
 </div>
 
-### Always Open To
-
-✨ **Collaboration** on security, infrastructure, or dev projects  
-🧠 **Mentorship** in cybersecurity and modern development  
-💬 **Discussions** about secure architecture and Web3  
-🚀 **Opportunities** internship, full-time, or freelance roles
-
 ---
 
-## ⚡ Quick Facts
-
-- 🎯 Passionate about **security-first development**
-- 🔬 Love **breaking things to build them better**
-- 🌱 Always **learning** new attack vectors and defense strategies
-- 🤝 Believer in **knowledge sharing** and community
-- ⚙️ Details matter: **clean code, secure defaults, zero-trust mindset**
-
----
+## 💬 Let's Connect
 
 <div align="center">
 
-### Thanks for visiting! 
+**🔐 Available for: Security Audits • DevSecOps Consulting • Full-Stack Projects • Freelance**
 
-**If you found this interesting, a ⭐ would mean the world.**
+---
 
-Built with 🖤 and secured with 🔐
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-pazent.fr-6e00ff?style=for-the-badge)](https://pazent.fr)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/alessandrogagliardi)
+[![Email](https://img.shields.io/badge/✉️_EMAIL-contact%40pazent.fr-D14836?style=for-the-badge)](mailto:contact@pazent.fr)
 
-*Last updated: March 2026*
+---
+
+*"Security is not a product, but a process."* — Bruce Schneier
+
+⭐ **If you found this useful, drop a star!**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6e00ff,100:0d1117&height=120&section=footer" />
 
 </div>
