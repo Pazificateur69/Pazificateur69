@@ -7,7 +7,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/pazent.fr-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6e00ff)](https://pazent.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/alessandrogagliardi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/alessandro-%E2%80%8E-120258299/)
 [![Email](https://img.shields.io/badge/contact%40pazent.fr-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:contact@pazent.fr)
 [![Profile Views](https://komarev.com/ghpvc/?username=Pazificateur69&style=for-the-badge&color=6e00ff&label=VIEWS)](https://github.com/Pazificateur69)
 
@@ -39,14 +39,6 @@ class Alessandro:
 ```
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Pazificateur69&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/Pazificateur69)
-
-</div>
 
 ---
 
@@ -191,14 +183,6 @@ class Alessandro:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Pazificateur69/Pazificateur69/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 
 ## 🎓 Education & Experience
@@ -242,7 +226,7 @@ class Alessandro:
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_pazent.fr-6e00ff?style=for-the-badge)](https://pazent.fr)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/alessandrogagliardi)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/alessandro-%E2%80%8E-120258299/)
 [![Email](https://img.shields.io/badge/✉️_contact%40pazent.fr-EA4335?style=for-the-badge)](mailto:contact@pazent.fr)
 
 <br/>
