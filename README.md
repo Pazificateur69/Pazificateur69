@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e00ff,100:00d4ff&height=220&section=header&text=Alessandro%20Gagliardi&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Cybersecurity%20Engineer%20·%20DevSecOps%20·%20Full-Stack%20Dev&descAlignY=62&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e00ff,100:00d4ff&height=220&section=header&text=Alessandro%&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Cybersecurity%20Engineer%20·%20DevSecOps%20·%20Full-Stack%20Dev&descAlignY=62&descSize=17&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=🔐+Pentest+%7C+OWASP+%7C+Reverse+Engineering;🛠️+DevSecOps+%40+Net+Strategy+%7C+Feyzin;🌐+Next.js+%7C+TypeScript+%7C+Solidity+%7C+Docker;🎓+Guardia+Cybersecurity+School+%7C+Lyon)](https://git.io/typing-svg)
 
@@ -19,7 +19,7 @@
 
 ```python
 class Alessandro:
-    name     = "Alessandro Gagliardi"
+    name     = "Alessandro"
     alias    = "pazent"
     location = "Lyon, France 🇫🇷"
     school   = "Guardia Cybersecurity School — 3rd Year"
