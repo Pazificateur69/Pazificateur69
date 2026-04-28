@@ -1,181 +1,179 @@
+<!-- ─────────────────────────────────────────────────────────────────────
+     Pazent's GitHub profile README
+     Drop this file at the root of github.com/Pazificateur69/Pazificateur69
+     as `README.md` — it will render on your public profile page.
+     ───────────────────────────────────────────────────────────────────── -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e00ff,100:00d4ff&height=220&section=header&text=Alessandro%&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Blockchain%20Engineer%20·%20Cybersecurity%20·%20Full-Stack%20Dev&descAlignY=62&descSize=17&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d12,50:3fd0d4,100:c8a96b&height=240&section=header&text=Pazent&fontSize=80&fontColor=f6f9fc&animation=fadeIn&fontAlignY=38&desc=Quantum-resistant%20systems%20engineer&descAlignY=58&descSize=18" alt="header banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=⛓️+Building+CURS3D+—+Post-Quantum+L1+Blockchain+in+Rust;🔐+Pentest+%7C+OWASP+%7C+Reverse+Engineering;🛠️+DevSecOps+%40+Net+Strategy+%7C+Feyzin;🌐+Rust+%7C+TypeScript+%7C+Solidity+%7C+Docker)](https://git.io/typing-svg)
+<br />
 
-<br/>
+<a href="https://curs3d.fr"><img src="https://img.shields.io/badge/curs3d.fr-3fd0d4?style=for-the-badge&logo=rust&logoColor=white" alt="curs3d.fr" /></a>
+<a href="https://explorer.curs3d.fr"><img src="https://img.shields.io/badge/Live%20Explorer-0a0d12?style=for-the-badge&logo=ethereum&logoColor=3fd0d4" alt="explorer" /></a>
+<a href="https://api.curs3d.fr/api/status"><img src="https://img.shields.io/badge/Testnet%20Live-c8a96b?style=for-the-badge&logo=hyper&logoColor=white" alt="testnet" /></a>
+<a href="mailto:agencenetstrategy@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 
-[![Portfolio](https://img.shields.io/badge/pazent.fr-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6e00ff)](https://pazent.fr)
-[![CURS3D](https://img.shields.io/badge/CURS3D.fr-0d1117?style=for-the-badge&logo=rust&logoColor=white&labelColor=8b5cf6)](https://curs3d.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/alessandro-%E2%80%8E-120258299/)
-[![Email](https://img.shields.io/badge/contact%40pazent.fr-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:contact@pazent.fr)
-[![Profile Views](https://komarev.com/ghpvc/?username=Pazificateur69&style=for-the-badge&color=6e00ff&label=VIEWS)](https://github.com/Pazificateur69)
+<br /><br />
+
+<a href="https://github.com/Pazificateur69">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=3FD0D4&center=true&vCenter=true&width=720&lines=Building+a+post-quantum+Layer+1+from+scratch+in+Rust;Dilithium+L5+%E2%80%A2+BFT+PoS+%E2%80%A2+WASM+VM+%E2%80%A2+Light+clients;Solo+dev+%E2%80%A2+Open+source+(MIT)+%E2%80%A2+Live+testnet" alt="rotating tagline" />
+</a>
 
 </div>
 
 ---
 
-## 🧬 whoami
+## 🜲 Featured project — CURS3D
 
-```python
-class Alessandro:
-    name     = "Alessandro"
-    alias    = "pazent"
-    location = "Lyon, France 🇫🇷"
-    school   = "Guardia Cybersecurity School — 3rd Year"
-    work     = "DevSecOps Engineer @ Net Strategy (Feyzin)"
-    web      = "https://pazent.fr"
-
-    focus = [
-        "Blockchain        → Building CURS3D, a post-quantum L1 in Rust",
-        "Offensive Security → Pentest · OSINT · Reverse Engineering",
-        "Defensive Security → Hardening · Forensics · Incident Response",
-        "Development        → Rust · Next.js · TypeScript · Solidity",
-        "Infrastructure     → Docker · CI/CD · VPS · DNS · Nginx",
-    ]
-
-    currently_building = "CURS3D — quantum-resistant blockchain from scratch"
-    currently_learning = ["OSCP", "Advanced Rust", "Cryptography"]
-    open_to            = ["Blockchain Collaboration", "Security Audits", "Freelance"]
-```
-
----
-
-## ⛓️ CURS3D — Flagship Project
-
-<div align="center">
-
-[![CURS3D](https://img.shields.io/badge/CURS3D-Quantum--Resistant_L1_Blockchain-8b5cf6?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Pazificateur69/curs3d)
-[![CI](https://github.com/Pazificateur69/curs3d/workflows/CI/badge.svg)](https://github.com/Pazificateur69/curs3d/actions)
-![Tests](https://img.shields.io/badge/tests-80_passing-brightgreen?style=flat)
-![Clippy](https://img.shields.io/badge/clippy-0_warnings-brightgreen?style=flat)
-![License](https://img.shields.io/badge/license-MIT-blue?style=flat)
-
-</div>
-
-> A **Layer 1 blockchain written from scratch in Rust** with NIST post-quantum cryptography, BFT consensus, WASM smart contracts, and an EIP-1559 fee market. No fork — every line is original.
-
-| Component | Technology |
-|-----------|-----------|
-| Signatures | CRYSTALS-Dilithium Level 5 (NIST FIPS 204) |
-| Hashing | SHA-3 Keccak-256 |
-| Consensus | BFT Proof of Stake with 2/3 finality |
-| Smart Contracts | WASM VM (Wasmer 5 + Cranelift) |
-| Fee Market | EIP-1559 dynamic base fee |
-| Networking | libp2p (Gossipsub + mDNS) |
-| Storage | sled embedded database |
-| Language | Rust 2024 edition |
-
-**→ [View Source](https://github.com/Pazificateur69/curs3d)** · **[Website](https://curs3d.fr)** · **[Whitepaper](https://curs3d.fr/whitepaper.html)** · **[Documentation](https://curs3d.fr/docs.html)**
-
----
-
-## 🛡️ Security Arsenal
-
-<div align="center">
-
-| Offensive | Defensive | Web3 |
-|:---------:|:---------:|:----:|
-| ![Nmap](https://img.shields.io/badge/Nmap-009639?style=flat&logo=linux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B35?style=flat&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-E03C31?style=flat&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Ghidra](https://img.shields.io/badge/Ghidra-DC143C?style=flat&logoColor=white) | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white) ![Hardening](https://img.shields.io/badge/CIS_Benchmarks-0052CC?style=flat&logoColor=white) ![Forensics](https://img.shields.io/badge/Volatility-1E90FF?style=flat&logoColor=white) ![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat&logoColor=white) | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white) ![Slither](https://img.shields.io/badge/Slither-4B0082?style=flat&logoColor=white) ![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat&logoColor=white) |
-
-</div>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-
-**Frontend & Backend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088F0?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Other Projects
+> **A quantum-resistant Layer 1 blockchain, built from zero in Rust.**
+> No fork, no copy-paste — every component (consensus, crypto, networking, storage, VM, API) implemented from scratch with NIST-standardized post-quantum primitives.
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td valign="top" width="50%">
 
-### 🏢 CRM Platform — Net Strategy
-> Enterprise CRM for high-performance sales teams
+**Why it matters**
 
-**Stack:** `Next.js 14` `Prisma` `Supabase` `TypeScript`
+NIST published FIPS 204 (CRYSTALS-Dilithium) in August 2024. CNSA 2.0 (US) mandates post-quantum migration by 2030. eIDAS 2.0 (EU) will require it for the European digital wallet.
 
-- ✦ OAuth + RBAC + full audit trail
-- ✦ Real-time analytics & pipeline mgmt
-- ✦ Sub-200ms load · 50+ daily users
+Every existing chain — Bitcoin, Ethereum, Solana — is built on ECDSA, which is broken by Shor's algorithm. CURS3D is a working reference implementation of what the migration looks like at L1.
 
-</td>
-<td width="50%" valign="top">
+**What's running today**
 
-### 🔍 Web Pentest — OWASP Top 10
-> Full-scope web application security audits
+- 4 BFT validators on Oracle Cloud ARM (Marseille, EU)
+- ~31,400 lines of Rust • 145 tests • 0 clippy warnings
+- HTTP REST API + Ethereum-compatible JSON-RPC + WebSocket events
+- Rust SDK with 5 example contracts (counter, ERC-20, multisig, NFT, vesting)
+- Public block explorer + bilingual website (EN/FR)
 
-**Method:** `OWASP TGv4.2` `Manual + Automated`
+    </td>
+    <td valign="top" width="50%">
 
-- ✦ SQLi · XSS · IDOR · CSRF · Auth bypass
-- ✦ Executive + technical reports
-- ✦ Full remediation roadmaps
+**Stack**
 
-</td>
-</tr>
+```
+Crypto      CRYSTALS-Dilithium L5  (FIPS 204)
+            SHA-3 Keccak-256       (FIPS 202)
+Consensus   BFT PoS, 2/3 finality, slashing
+VM          Wasmer 5 + Cranelift, fuel metering
+Network     libp2p 0.54 + Gossipsub
+Storage     sled, Sparse Merkle Trie
+Wallet      AES-256-GCM + Argon2id
+API         hyper 1.x + tokio + tungstenite
+```
+
+**Try it now**
+
+```bash
+# Status of the live testnet
+curl -s https://api.curs3d.fr/api/status | jq
+
+# Ethereum-compatible RPC (Metamask, ethers.js)
+curl -s -X POST https://api.curs3d.fr/eth \
+  -H 'content-type: application/json' \
+  -d '{"jsonrpc":"2.0","id":1,"method":"eth_blockNumber"}'
+```
+
+[**→ Read the whitepaper**](https://curs3d.fr/whitepaper.html) &nbsp;•&nbsp; [**→ Run a validator**](https://curs3d.fr/run-validator.html) &nbsp;•&nbsp; [**→ Source code**](https://github.com/Pazificateur69/curs3d)
+
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## ⛁ Tech stack
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pazificateur69&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6e00ff&icon_color=00d4ff&text_color=e6edf3" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazificateur69&theme=tokyonight&layout=donut&hide_border=true&bg_color=0d1117&title_color=6e00ff&text_color=e6edf3" />
+<img src="https://skillicons.dev/icons?i=rust,wasm,docker,linux,nginx,bash,nodejs,ts,react,tailwind,postgres,redis,git,github,vscode&perline=15" alt="tech stack" />
 
-<br/>
+<br /><br />
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pazificateur69&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e00ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff)](https://github.com/Pazificateur69)
+<a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/libp2p-3FD0D4?style=flat-square" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Wasmer-4946DD?style=flat-square&logo=webassembly&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Tokio-DAD2D8?style=flat-square&logo=rust&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/sled-FF5B00?style=flat-square" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Dilithium%20L5-0F1729?style=flat-square&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/SHA--3-2B2D42?style=flat-square" /></a>
 
 </div>
 
 ---
 
-## 💬 Let's Connect
+## ✦ GitHub at a glance
 
 <div align="center">
 
-> **Open to:** Blockchain Collaboration · Security Audits · DevSecOps · Freelance
+<a href="https://github.com/Pazificateur69">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pazificateur69&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0d12&title_color=3fd0d4&text_color=d8e2ec&icon_color=c8a96b&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazificateur69&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0d12&title_color=3fd0d4&text_color=d8e2ec&langs_count=8" alt="Top languages" />
+</a>
 
-<br/>
+<br /><br />
 
-[![Portfolio](https://img.shields.io/badge/🌐_pazent.fr-6e00ff?style=for-the-badge)](https://pazent.fr)
-[![CURS3D](https://img.shields.io/badge/⛓️_curs3d.fr-8b5cf6?style=for-the-badge)](https://curs3d.fr)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/alessandro-%E2%80%8E-120258299/)
-[![Email](https://img.shields.io/badge/✉️_contact%40pazent.fr-EA4335?style=for-the-badge)](mailto:contact@pazent.fr)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Pazificateur69&theme=midnight-purple&hide_border=true&background=0a0d12&stroke=3fd0d4&ring=c8a96b&fire=c8a96b&currStreakLabel=3fd0d4&currStreakNum=f6f9fc&sideNums=f6f9fc&dates=a4b3c3&sideLabels=a4b3c3" alt="GitHub Streak" />
+</a>
 
-<br/>
+<br /><br />
 
-⭐ **If CURS3D interests you, [star the repo](https://github.com/Pazificateur69/curs3d)!**
+<a href="https://github.com/Pazificateur69">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pazificateur69&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+</a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6e00ff,100:0d1117&height=130&section=footer" />
+---
+
+## 🜂 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pazificateur69&bg_color=0a0d12&color=3fd0d4&line=c8a96b&point=f6f9fc&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
+
+</div>
+
+---
+
+## 𓅪 The snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Pazificateur69/Pazificateur69/output/github-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+---
+
+## 🜨 What I'm focused on right now
+
+```rust
+struct CurrentlyFocusedOn {
+    primary:   "CURS3D testnet stability + external audit prep",
+    research:  "Post-quantum migration paths for legacy chains",
+    learning:  ["Formal verification (TLA+, Tamarin)",
+                "MPC and threshold-Dilithium",
+                "BFT under network partition"],
+    open_to:   "Grant collaborations, freelance Rust/security",
+    location:  "France 🇫🇷  •  remote-first",
+}
+```
+
+---
+
+<div align="center">
+
+**Building things meant to last —** **building post-quantum is building for a 50-year horizon.**
+
+<sub><sup>⚙ Profile auto-built with GitHub Actions • snake animation regenerated every 6h • last touched today</sup></sub>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8a96b,50:3fd0d4,100:0a0d12&height=120&section=footer&reversal=true" alt="footer" />
+
+</div>
