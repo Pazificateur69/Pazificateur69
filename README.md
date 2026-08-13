@@ -25,6 +25,23 @@
 
 ---
 
+<div align="center">
+
+### Currently building: [ExploitSpec](https://github.com/pazent/exploitspec)
+
+**Turn proven HTTP exploits into permanent regression tests.**<br />
+Apache-2.0 · local-first · no account · no telemetry · **RED → GREEN → STABLE**
+
+[`Run the real demo in 60 seconds`](https://github.com/pazent/exploitspec#try-the-real-demo-in-60-seconds)
+&nbsp;·&nbsp;
+[`Read the v0.1.0 launch`](https://github.com/pazent/exploitspec/discussions/3)
+&nbsp;·&nbsp;
+[`Give technical feedback`](https://github.com/pazent/exploitspec/discussions/7)
+
+</div>
+
+---
+
 ## ⛨ Who I am
 
 Cybersecurity & DevSecOps engineer based in Lyon, France. I hold the French **RNCP *Administrateur d'Infrastructures Sécurisées*** title (Guardia Cybersecurity School, 2026), and I currently own application and production-server security for a web agency's entire client estate — the whole loop, from finding the vulnerability to watching the fix ship.
