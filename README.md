@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d12,50:3fd0d4,100:c8a96b&height=240&section=header&text=Pazent&fontSize=80&fontColor=f6f9fc&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%26%20DevSecOps%20Engineer&descAlignY=58&descSize=18" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d12,50:3fd0d4,100:c8a96b&height=240&section=header&text=Pazent&fontSize=80&fontColor=f6f9fc&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20DevSecOps%20Engineer&descAlignY=58&descSize=18" alt="header banner" />
 
 <br />
 
