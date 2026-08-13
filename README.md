@@ -12,6 +12,7 @@
 <a href="mailto:agencenetstrategy@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 <a href="https://github.com/Pazificateur69/gauntlet"><img src="https://img.shields.io/badge/Container%20security-0a0d12?style=for-the-badge&logo=docker&logoColor=3fd0d4" alt="container security" /></a>
 <a href="https://github.com/Pazificateur69/aedsc-action"><img src="https://img.shields.io/badge/Shift--left%20CI-3fd0d4?style=for-the-badge&logo=githubactions&logoColor=white" alt="secure ci" /></a>
+<a href="https://github.com/pazent/exploitspec"><img src="https://img.shields.io/badge/Exploit%20regression-c8a96b?style=for-the-badge&logo=githubactions&logoColor=white" alt="ExploitSpec" /></a>
 <a href="https://curs3d.fr"><img src="https://img.shields.io/badge/Post--quantum%20L1-c8a96b?style=for-the-badge&logo=rust&logoColor=white" alt="curs3d" /></a>
 
 <br /><br />
@@ -86,12 +87,21 @@ Each of these exists to prove one thing. That thing is in the right-hand column.
 
 | Project | What it is | What it demonstrates |
 |---|---|---|
+| **[ExploitSpec](https://github.com/pazent/exploitspec)** | Turns proven exploits into permanent regression tests — import a sanitized cURL, express the invariant in YAML, run locally or in GitHub Actions. | Bridges offensive findings and defensive CI: **RED → GREEN → STABLE**. Local-first, no account, no telemetry, Apache-2.0. |
 | **[gauntlet](https://github.com/Pazificateur69/gauntlet)** | Secure remote-code-execution & online-judge platform. Treats every submission as hostile. | Container escape defence — `seccomp`, `cgroups`, dropped capabilities, user namespaces, optional gVisor. Full [`THREAT_MODEL.md`](https://github.com/Pazificateur69/gauntlet/blob/main/THREAT_MODEL.md). K8s manifests with **deny-all-by-default NetworkPolicy**, non-root pods, read-only rootfs. |
 | **[aedsc-action](https://github.com/Pazificateur69/aedsc-action)** | GitHub Action running Slither + Aderyn on every pull request. | Shift-left security in practice — automated scanning wired into the review loop, with results where developers actually read them. |
 | **[T3MP3ST](https://github.com/Pazificateur69/T3MP3ST)** | Autonomous red-teaming platform — a multi-agent offensive-security meta-harness. | Offensive automation and attack-chain orchestration. |
 | **[mldsa-kit](https://github.com/Pazificateur69/mldsa-kit)** | FIPS-204 ML-DSA-87 post-quantum signing for Rust, with an encrypted keystore. | Applied cryptography — Argon2id + AES-256-GCM key protection, byte-for-byte browser↔native interop, stable toolchain. |
 | **[pricestream](https://github.com/Pazificateur69/pricestream)** | Real-time crypto pricing & liquidity service — Django, Kafka, Celery, WebSockets. | Distributed systems and observability — Prometheus metrics, deep health probes, Kubernetes manifests, CI. |
 | **[NightOwl](https://github.com/Pazificateur69/NightOwl)** | 57-module open-source pentesting framework. | Breadth across the offensive toolchain. |
+
+<p align="center">
+  <a href="https://github.com/pazent/exploitspec"><img src="https://raw.githubusercontent.com/pazent/exploitspec/v0.1.0/docs/demo.svg" width="900" alt="ExploitSpec RED GREEN STABLE demo" /></a>
+  <br />
+  <a href="https://github.com/pazent/exploitspec/actions/workflows/ci.yml"><img src="https://github.com/pazent/exploitspec/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI" /></a>
+  <a href="https://github.com/pazent/exploitspec/releases/tag/v0.1.0"><img src="https://img.shields.io/github/v/release/pazent/exploitspec?style=flat-square&color=3fd0d4" alt="release" /></a>
+  <a href="https://github.com/pazent/exploitspec/blob/main/LICENSE"><img src="https://img.shields.io/github/license/pazent/exploitspec?style=flat-square&color=c8a96b" alt="license" /></a>
+</p>
 
 <details>
 <summary><b>More — infrastructure, backend, Web3</b></summary>
