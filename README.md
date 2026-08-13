@@ -197,13 +197,6 @@ Also: [`mldsa-kit`](https://github.com/Pazificateur69/mldsa-kit) (post-quantum s
 
 <div align="center">
 
-<a href="https://github.com/Pazificateur69">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pazificateur69&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0d12&title_color=3fd0d4&text_color=d8e2ec&icon_color=c8a96b&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazificateur69&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0d12&title_color=3fd0d4&text_color=d8e2ec&langs_count=8" alt="Top languages" />
-</a>
-
-<br /><br />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pazificateur69&bg_color=0a0d12&color=3fd0d4&line=c8a96b&point=f6f9fc&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
 
 <br /><br />
