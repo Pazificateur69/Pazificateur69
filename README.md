@@ -199,10 +199,6 @@ Also: [`mldsa-kit`](https://github.com/Pazificateur69/mldsa-kit) (post-quantum s
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pazificateur69&bg_color=0a0d12&color=3fd0d4&line=c8a96b&point=f6f9fc&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
 
-<br /><br />
-
-<img src="https://raw.githubusercontent.com/Pazificateur69/Pazificateur69/output/github-snake-dark.svg" alt="snake animation" />
-
 </div>
 
 ---
