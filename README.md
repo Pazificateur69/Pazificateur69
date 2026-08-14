@@ -34,6 +34,8 @@ Apache-2.0 · local-first · no account · no telemetry · **RED → GREEN → S
 
 [`Run the real demo in 60 seconds`](https://github.com/pazent/exploitspec#try-the-real-demo-in-60-seconds)
 &nbsp;·&nbsp;
+[`Install from GitHub Marketplace`](https://github.com/marketplace/actions/exploitspec-security-regression-tests)
+&nbsp;·&nbsp;
 [`Read the v0.1.0 launch`](https://github.com/pazent/exploitspec/discussions/3)
 &nbsp;·&nbsp;
 [`Give technical feedback`](https://github.com/pazent/exploitspec/discussions/7)
