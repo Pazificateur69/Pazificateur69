@@ -36,7 +36,7 @@ Apache-2.0 · local-first · no account · no telemetry · **RED → GREEN → S
 &nbsp;·&nbsp;
 [`Install from GitHub Marketplace`](https://github.com/marketplace/actions/exploitspec-security-regression-tests)
 &nbsp;·&nbsp;
-[`Read the v0.1.0 launch`](https://github.com/pazent/exploitspec/discussions/3)
+[`Read the BOLA case study`](https://github.com/pazent/exploitspec/discussions/8)
 &nbsp;·&nbsp;
 [`Give technical feedback`](https://github.com/pazent/exploitspec/discussions/7)
 
