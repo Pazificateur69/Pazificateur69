@@ -1,5 +1,5 @@
 <!-- ─────────────────────────────────────────────────────────────────────
-     Alessandro Gagliardi — GitHub profile README
+     Alessandro — GitHub profile README
      Lives at github.com/Pazificateur69/Pazificateur69/README.md
      ───────────────────────────────────────────────────────────────────── -->
 
@@ -10,6 +10,7 @@
 <br />
 
 <a href="mailto:alessandro.gagliardi225145@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://www.linkedin.com/in/alessandro-cyber/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Pazificateur69/gauntlet"><img src="https://img.shields.io/badge/Container%20security-0a0d12?style=for-the-badge&logo=docker&logoColor=3fd0d4" alt="container security" /></a>
 <a href="https://github.com/Pazificateur69/aedsc-action"><img src="https://img.shields.io/badge/Shift--left%20CI-3fd0d4?style=for-the-badge&logo=githubactions&logoColor=white" alt="secure ci" /></a>
 <a href="https://github.com/pazent/exploitspec"><img src="https://img.shields.io/badge/Exploit%20regression-c8a96b?style=for-the-badge&logo=githubactions&logoColor=white" alt="ExploitSpec" /></a>
